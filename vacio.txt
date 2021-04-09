@@ -1,1 +1,1 @@
-Esta es una prueba para el curso de git y github de Platzi
+Esta es una prueba para el curso de git y github de Platzi con el profesor Freddy Vega
