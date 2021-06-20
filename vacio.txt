@@ -2,3 +2,5 @@ Esta es una prueba para el curso de git y github de Platzi con el profesor Fredd
 
 Esta es mi colaboración desde otra computadora.
 
+Marcoo es una persona que contribuye en este proyecto open source.
+
