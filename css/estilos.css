@@ -50,6 +50,14 @@ body
     background:blanchedalmond;
     padding: 1em;
 }
+#post #author
+{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ 
+}
 #footer
 {
     background: #777;
@@ -59,3 +67,4 @@ body
     margin: 0;
 
 }
+
